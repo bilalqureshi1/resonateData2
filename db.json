@@ -3,43 +3,36 @@
       {
          "name":"Ahmed John",
          "phone":"031345456543",
-         "photo":"https://randomuser.me/api/portraits/men/76.jpg",
          "description":"Friend from Uni"
       },
       {
          "name":"Bilal Qureshi",
          "phone":"5678765456",
-         "photo":"https://randomuser.me/api/portraits/men/1.jpg",
          "description":"Myself"
       },
       {
          "name":"Chris Hemsworth",
          "phone":"4543212345",
-         "photo":"https://randomuser.me/api/portraits/men/76.jpg",
          "description":"Australias best actor?"
       },
       {
          "name":"James Harden",
          "phone":"859-496-2817",
-         "photo":"https://randomuser.me/api/portraits/men/76.jpg",
          "description":"PG at Brooklyn Nets"
       },
       {
          "name":"Kevin Durant",
          "phone":"525-2123-662",
-         "photo":"https://randomuser.me/api/portraits/men/76.jpg",
          "description":"SF at Brooklyn Nets"
       },
       {
          "name":"Lebron James",
          "phone":"901-747-3428",
-         "photo":"https://randomuser.me/api/portraits/men/76.jpg",
          "description":"GOAT"
       },
       {
          "name":"Stephen Curry",
          "phone":"333-333-333",
-         "photo":"https://randomuser.me/api/portraits/men/76.jpg",
          "description":"Best 3 point shooter"
       }
    ]
